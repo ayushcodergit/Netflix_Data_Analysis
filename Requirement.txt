@@ -3,5 +3,5 @@ matplotlib
 seaborn
 scikit-learn
 streamlit
-numpy
+python
 Jupyter
