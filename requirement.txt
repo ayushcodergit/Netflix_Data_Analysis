@@ -3,5 +3,3 @@ matplotlib
 seaborn
 scikit-learn
 streamlit
-python
-Jupyter
